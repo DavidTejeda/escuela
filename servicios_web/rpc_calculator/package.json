@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@todojs/jsrpc": "^0.0.3"
+  }
+}
